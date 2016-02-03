@@ -1,6 +1,4 @@
-/**
- * Created by Rakesh on 4/12/2015.
- */
+
 var WebSocketServer = require('websocket').server;
 var http = require('http');
 var AWS = require('aws-sdk');
